@@ -1,6 +1,6 @@
 # USA Houses price predictor Web API
 
-## It's simple web API created in flask which implements linear regression algorithm to predict the price of houses.'
+### It's simple web API created in flask which implements linear regression algorithm to predict the price of houses.'
 
 ### How to run
 
